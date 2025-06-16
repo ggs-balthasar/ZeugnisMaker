@@ -58,7 +58,7 @@
 .wrapp-fill{
 	margin-top: 140px;
 	display: flex;
-	flex-direction:row;
+	flex-direction:column;
 	gap: 0.8em;
 }
 
@@ -71,7 +71,7 @@
 
 .sheet-title {
 	padding: 150px 0px 20px 0px;
-	font-size: 60px;
+	font-size: 4vw;
 	font-weight: 500;
 	margin: 0;
 }
